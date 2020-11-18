@@ -1,0 +1,24 @@
+[33m6d868a7[m[33m ([m[1;36mHEAD -> [m[1;32msquash-dev[m[33m)[m commit 01
+[33m696fe16[m[33m ([m[1;32mmain[m[33m)[m edited new-feature.go
+[33me1af218[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m added new-feature.go
+[33m71ef45f[m[33m ([m[1;33mtag: 1.0.0[m[33m)[m Merge remote-tracking branch 'origin/second-feature' into main
+[33m674c5d5[m Merge remote-tracking branch 'origin/first-feature' into main
+[33mc63fdf8[m Merge remote-tracking branch 'origin/feature' into main
+[33mc96ca53[m[33m ([m[1;31morigin/second-feature[m[33m)[m 2 feature
+[33md376ef2[m[33m ([m[1;31morigin/branch_3_kraken_rebase[m[33m)[m 777.txt added to the main
+[33mfbbd8b2[m Merge branch 'main' of github.com:yukki14/project into main
+[33m81b6219[m Merge branch 'first-feature' into main merge
+[33mfe8ca8c[m[33m ([m[1;31morigin/first-feature[m[33m)[m first feature code
+[33ma79e303[m[33m ([m[1;31morigin/feature[m[33m)[m featore branch update with code directory
+[33m5981143[m Merge remote-tracking branch 'origin/testmerge' into main
+[33m7021842[m Merge branch 'main' into origin/testmerge
+[33m5f12d57[m Merge remote-tracking branch 'origin/testmerge' into main
+[33mf818fc4[m Merge branch 'main' into origin/testmerge
+[33m9e5b177[m Merge branch 'testmerge' into main
+[33mc5c9b2d[m for merge
+[33m9a0d9e0[m Merge branch 'ghghg' into main
+[33m0bdffce[m na novoy vetke
+[33m6e3b507[m updated dev.md after merge
+[33me130cf6[m Update dev.md
+[33ma1ae57e[m added dev.md to new repo project on GitHub
+[33me0bd104[m Initial commit
